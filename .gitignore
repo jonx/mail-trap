@@ -1,0 +1,23 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider IDE and VS Code settings
+.idea/
+.vscode/
+
+# Ignore Visual Studio folders
+.vs/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore saved emails if you want (optional)
+data/
